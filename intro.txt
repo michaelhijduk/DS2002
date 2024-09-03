@@ -1,0 +1,1 @@
+This is a file to show that I am able to use the core git functionalities.
